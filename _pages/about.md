@@ -41,7 +41,7 @@ I graduated from Shanghai Jiao Tong University in June 2024 with a B.Eng. degree
 
 ## Publications
 
-Below is a list of my publications. A longer, individually-linked version is also available on the [Publications](/publications/) page.
+Below is a list of my publications. A longer, individually-linked version is also available on the [Publications]({{ site.url }}{{ site.baseurl }}/publications/) page.
 
 ### 2025
 
