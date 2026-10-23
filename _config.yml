@@ -206,7 +206,6 @@ markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
-excerpt_separator: "\n{:.endofexcerpt}\n"
 incremental: false
 
 
